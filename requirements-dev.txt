@@ -1,0 +1,11 @@
+-r requirements.txt
+
+# Development and test tools
+pytest==9.2.0
+ruff==0.17.4
+
+# Pulled in by the above
+iniconfig==2.3.1
+packaging==26.3
+pluggy==1.7.0
+Pygments==2.21.0
